@@ -1,0 +1,79 @@
+1  // Manage Books
+1  // Add Book
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+978-0345391803
+5
+1  // Add Book
+Pride and Prejudice
+Jane Austen
+978-0141439518
+3
+1  // Add Book
+1984
+George Orwell
+978-0451524935
+10
+3  // Display Books (check initial books)
+4  // Edit Book
+978-0345391803
+A Guide to the Galaxy
+Douglas Adams
+7
+3 // Display Books (check after edit)
+5 // Search books
+1 // search by Title
+Galaxy
+5 // Search books
+2 // search by Author
+Austen
+5 // Search book
+3 // Search by ISBN
+978-0451524935
+2 // Remove a book
+978-0451524935
+3 //Display the books.
+0 // Back to main menu.
+2  // Manage Patrons
+1  // Register Patron
+John Doe
+JD001
+john.doe@example.com
+1  // Register Patron
+Jane Smith
+JS002
+jane.smith@example.com
+2 // Display Patrons
+3 //Edit Patron
+JD001
+john.doe@updated.com
+2 // Display Patrons (check edited patron)
+4 //Search Patron
+JD001
+5 // Books Per Patron
+JS002
+0 //Back to Main Menu
+3  // Borrow/Return
+1 // Borrow
+978-0345391803
+JD001
+1 // Borrow
+978-0141439518
+JD001
+1 // Borrow
+978-0141439518
+JS002
+3 // Display Books (to check available books)
+2 // Manage Patrons
+5 // Books Per Patron
+JD001
+0 // Back To Main Menu
+3  // Borrow/Return
+2 // Return Book
+978-0345391803
+3 //Display books.
+2  // Manage Patrons
+5 // Books Per Patron
+JD001
+0 // Back To Main Menu
+0  // Exit
